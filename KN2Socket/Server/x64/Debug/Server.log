@@ -1,7 +1,0 @@
-﻿  Server.cpp
-C:\Users\user\source\repos\KN2Socket\Server\Server.cpp(108,23): error C2065: INET_ADDRSTRLEN: необъявленный идентификатор
-C:\Users\user\source\repos\KN2Socket\Server\Server.cpp(109,59): error C2065: INET_ADDRSTRLEN: необъявленный идентификатор
-C:\Users\user\source\repos\KN2Socket\Server\Server.cpp(109,9): error C3861: inet_ntop: идентификатор не найден
-C:\Users\user\source\repos\KN2Socket\Server\Server.cpp(110,90): warning C4552: "<<": результат выражения не используется
-C:\Users\user\source\repos\KN2Socket\Server\Server.cpp(120,75): warning C4552: "<<": результат выражения не используется
-C:\Users\user\source\repos\KN2Socket\Server\Server.cpp(133,38): warning C4552: "<<": результат выражения не используется
